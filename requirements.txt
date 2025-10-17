@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
 beautifulsoup4==4.12.2
-lxml==4.9.9; sys_platform != 'linux' or python_version < '3.13'
+lxml==4.9.9
 psycopg2-binary==2.9.7
 python-dotenv==1.0.0
